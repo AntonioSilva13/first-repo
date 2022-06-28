@@ -1,3 +1,3 @@
 # First
 
-first repository.
+first repository
